@@ -1,0 +1,236 @@
+Cloud Native and DevOps Full Course List
+CI/CD & TDD Cloud Computing
+• BOSH
+• CI with Jenkins
+• Circle CI
+• Cucumber for Java
+• Cucumber Fundamentals
+• Git Foundation
+• Git In-Depth
+• Git Master Class
+• GitLab
+• Interoperability Testing and the SLDC
+• Jenkins
+• Maven
+• TDD Using Visual Studio/C#/Nunit
+• TDD with C++
+• TDD with Go
+• TDD with Java
+• Test Driven Development for Managers
+• Test Driven Fundamentals
+• Travis CI • AWS IaaS and EC2
+• Azure Foundation
+• Cloud I: IaaS
+• Cloud II: Platform Services
+• Cloud III: Native Systems
+• Google Cloud Platform
+• Google Compute Engine
+• IBM Cloud DevOps Essentials
+• Infrastructure Essentials for IBM Cloud
+• Introduction to the Cloud for Developers
+• OpenStack Foundation
+• Oracle Cloud DevOps Essentials
+• Serverless Technology and Functions as a Service
+Containers/Container Technology
+• Container Technology
+• Containerd
+• CRI
+• Cri-O
+• Docker Advanced
+• Docker Bootcamp
+• Docker for Developers
+• Docker Foundation
+• Docker Networking
+• Docker Orchestration
+• Docker Volumes
+• OCI
+DevOps & Configuration Management
+• Advanced Puppet
+• Agile Methods
+• Ansible
+• Ansible and OpenStack
+• Chef Fundamentals
+• DevOps Foundation
+• Dynatrace Fundamentals
+• Dynatrace Seminar
+• Git
+• Intermediate Puppet
+• Internet of Things (IoT) Foundation
+• Maven
+• Modern Systems and Software
+• Puppet
+• Puppet Administration
+• CI/CD Foundation
+• Puppet Development
+• Puppet Open Source Seminar
+• Sale Open
+• Scrum Master
+• Splunk In-Depth
+• Systems ThinkingCloud Native and DevOps Full Course List (cont.)
+Data Science/Stateful Services Messaging/Streaming
+• Anaconda
+• Anaconda Foundation
+• Apache Hadoop & Spark
+• Apache Hadoop & Spark for Data Science
+• Apache Hbase
+• Artificial Intelligence
+• Building Data Processing Solutions on AWS
+• Cassandra for Users
+• Couchbase
+• Data Processing on GCP
+• Data Science on AWS
+• EFK
+• EFK Stack
+• Hadoop Foundation
+• Hive for the Experienced User
+• Hive Foundation
+• IBM Watson Discovery Essentials
+• Machine Learning
+• MongoDB Foundation
+• NoSQL Foundation
+• Prometheus for Users
+• R
+• R Language Foundation
+• Redis Foundation
+• Solr Foundation
+• Spark Overview
+• Spark Programming • Apache Kafka Foundation
+• Fluentd Foundation
+NOSQL
+• Cassandra
+• Couchbase
+• DynamoDB
+• Hbase
+• InfluxDB
+• Memcached
+• MongoDB
+• NoSQL
+• Redis
+• RocksDB
+Microservices & Application Architecture
+• Advanced Javascript and jQuery
+• Advanced Python Programming
+• Architecting Stateful Systems in the Cloud
+• Building Cross-Language Services with Apache Thrift
+• Building Microservice APIs with Apache Thrift
+• Building Microservice APIs with gRPC and ProtoBuf
+• Building Microservices on AWS
+• Building Microservices on Azure
+• Building Microservices on GCP
+• Building Microservices on Oracle
+• Building Microservices with Java and Spring Boot
+• Building RESTful Microservice APIs
+• Deploying and Instrumenting Microservices on
+Kubernetes
+• Developing Microservices for Cloud Native
+Environments
+• Developing Microservices for Kubernetes
+• Go Advanced
+• Go Foundation
+• Network Automation with Python
+• Node.js Foundation
+• Practical Machine Learning with Python
+• Python for Developers
+• Python for IaaS Automation
+• Python FoundationCloud Native and DevOps Full Course List (cont.)
+Orchestration Open Source Systems
+• Amazon ECS
+• Azure AKS
+• Cloud Foundry
+• Cloud Native Container Networking and ACI
+• Docker + Kubernetes for Devs
+• Docker + Kubernetes for Ops
+• Docker Compose
+• Docker Swarm
+• GKE
+• Istio on Kubernetes
+• Istio/Envoy Service Mesh
+• Kubernetes CKA Boot Camp with Exam
+• Kubernetes CKAD Boot Camp with Exam
+• Kubernetes Day 2 Operations
+• Kubernetes for Advanced Operators
+• Kubernetes for Developers
+• Kubernetes for Ops
+• Kubernetes Foundation
+• Kubernetes Helm Foundation
+• Kubernetes Networking
+• Kubernetes Stateful Workloads
+• Mesos Foundation
+• Multi/Hybrid Cloud with Istio on Kubernetes
+• Openshift Origin Foundation
+• PKS Foundation
+• Writing Kubernetes Operators • Apache Thrift
+• ApacheBeam
+• Blockchain
+• Blockchain Advanced
+• CoreDNS
+• Developing Hyperledger Applications
+• gRPC
+• Helm
+• Kafka
+• MySQL
+• Nats
+• Open Tracing
+• Prometheus
+• Protocol Buffers
+• RabbitMQ
+• Zvitess
+• ZeroMQ
+Programming
+• AngularJS
+• C
+• C#
+• C++
+• Design Patterns
+• Embedded C Programming for C Programmers
+• Go
+• Java (Spring Boot/Cloud)
+• JavaScript
+• NodeJS
+• ObjectiveC
+• React
+• Rust
+• Scala
+• SwiftCloud Native and DevOps Full Course List (cont.)
+Python Serverless App Development
+• Practical Machine Learning with Python
+• Python Advanced
+• Python for Data Analysis
+• Python for Developers
+• Python for Networking Engineers
+• Python Foundation
+• Python IaaS Automation
+• Python Machine Learning with TensorFlow • AWS Lambda
+• Knative Foundation
+Telecommunications Focus
+• CNF Based Kubernetes Operations
+• CNF Fundamentals
+• Kubernetes Foundation for Telco
+• Kubernetes Security for Telco
+• ONAP Foundation
+Web Tech
+• AngularJS
+• ExtJS
+• HTPP/2 Foundation
+• JavaScript
+• JAX-RS
+• Play
+• React
+• React Native
+• REST
+• TypeScript
+• Vue
+• WebSocket
+RX-M is a leading cloud-native technology and DevOps training firm. We offer hands-on
+training, delivered by Industry experts, aligned to your desired business outcomes. We provide
+value to our clients through deep expertise and extensive experience in the development and
+delivery of impactful training programs. Engage RX-M for your cloud-native and DevOps
+training program to:
+• Learn how to put the latest open source technology into practice
+• Enable your team with instructor-led courses on a global basis (onsite or online)
+• Align learning with business objectives
+RX-M trains thousands of engineers annually, covering the latest trends in tools, languages,
+methodology, and architecture. We update our course offerings frequently and custom course
+development requests are always welcome.
+To request more information about booking a pre-built or custom course for your team, contact
+our team at rx-m.com
